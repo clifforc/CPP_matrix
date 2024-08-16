@@ -4,9 +4,9 @@
 
 s21_matrix+ is an implementation of a library for working with matrices in C++. The project is developed as part of an educational program aimed at deepening the understanding of matrix operations, object-oriented programming, and working with C++.
 
-The library is developed in C++ language standard C++17 using the gcc compiler.</br>
-The library is designed as a static library named `s21_matrix_oop.a`.</br>
-The project is fully covered with unit tests using the Google Test (gtest) library.
+- The library is developed in C++ language standard C++17 using the gcc compiler;
+- The library is designed as a static library named `s21_matrix_oop.a`;
+- The project is fully covered with unit tests using the Google Test (gtest) library.
 
 ## Implemented Methods and Operators
 
